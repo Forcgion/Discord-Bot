@@ -1,0 +1,19 @@
+/test/
+*.idea
+pom.xml
+/target/
+External Libraries
+.mvn
+Scratches and Consoles
+resources
+/shelf/
+/workspace.xml
+/httpRequests/
+/queries/
+/dataSources/
+/dataSources.local.xml
+/misc.xml
+/vcs.xml
+/encodigs.xml
+/complier.xml
+/jarRepositories.xml
