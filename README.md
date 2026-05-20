@@ -33,3 +33,6 @@
 ```
 ### Have fun with this bot!
 # BUT TRANSLATE THESE WORDS ESTONIA -> ENGLISH!!!
+```
+git clone https://github.com/Forcgion/Discord-Bot.git
+```
